@@ -1,0 +1,17 @@
+import plotly.express as px
+import pandas as pd
+
+# Load the data
+data = pd.read_csv('states_df.csv')
+data = data.drop_duplicates()
+data = data.dropna()
+
+# Create animated scatter plot
+fig = px.scatter(data, x='Year', y='Location', animation_frame='Year',
+                 range_x=[data['Year'].min(), data['Year'].max()],
+                 range_y=[data['Location'].min(), data['Location'].max()],
+                 labels={'Location': 'Disasters per year'},
+                 title='Disasters over the Years')
+
+# Show the plot
+fig.show()
