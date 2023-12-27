@@ -12,7 +12,7 @@ How have tornadoes changed over the past seven decades and measure their impact 
 
 ## Data sources
 
-  * Source: https://www.spc.noaa.gov/wcm/ 
+  * Source: https://mausam.imd.gov.in/
   * File: 1950-2019_all_tornadoes.csv
 
 ## Data Dictionary
