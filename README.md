@@ -78,7 +78,7 @@ SVM |	68%	| 69% |
 Objectives
 * How has number of tornadoes changed over the past seven decades in the United States?
 
-![](F:\..epics\tornado-main\tornado-main\tornado-Prediction\final_project2\frontend\static\images\Animation.png)
+![](final_project2/frontend/static/images/Animation.png)
 
 * How has the magnitude affected the loss over the years?
 
