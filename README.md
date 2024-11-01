@@ -110,8 +110,10 @@ Objectives
 
 ## Team Members:
 
-* Ajinkya Bhosle
-* Sandeep Kolwalkar
-* Brie Pfisterer
-* Ryan Strong
-* Poonam Tashildar
+* Arnav Bhargava
+* Himay Mehta
+* Arnav Gupta
+* Vikas Singh
+* Sumit
+* PD
+* 
